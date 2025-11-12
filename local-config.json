@@ -4,6 +4,7 @@
   "fallbackUrls": [
     "http://localhost:3001/api/v1/license/validate"
   ],
+  "frontendUrl":"https://microservicetool.com",
   "limits": {
     "trial": {
       "maxMachines": 1,
