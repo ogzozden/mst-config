@@ -1,0 +1,27 @@
+{
+  "version": "1.0",
+  "licenseServerUrl": "https://license.microservicetool.com/api/v1/license/validate",
+  "fallbackUrls": [
+    "https://microservicetool.xyz/api/v1/license/validate"
+  ],
+  "limits": {
+    "trial": {
+      "maxMachines": 1,
+      "maxServices": 3,
+      "maxProxies": 1,
+      "allowExportImport": false
+    },
+    "personal": {
+      "maxMachines": 1,
+      "maxServices": 10,
+      "maxProxies": -1,
+      "allowExportImport": true
+    },
+    "professional": {
+      "maxMachines": 3,
+      "maxServices": -1,
+      "maxProxies": -1,
+      "allowExportImport": true
+    }
+  }
+}
