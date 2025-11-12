@@ -1,8 +1,8 @@
 {
   "version": "1.0",
-  "licenseServerUrl": "https://localhost:3000/api/v1/license/validate",
+  "licenseServerUrl": "http://localhost:3000/api/v1/license/validate",
   "fallbackUrls": [
-    "https://localhost:3001/api/v1/license/validate"
+    "http://localhost:3001/api/v1/license/validate"
   ],
   "limits": {
     "trial": {
