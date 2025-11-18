@@ -1,9 +1,10 @@
 {
   "version": "1.0",
-  "licenseServerUrl": "https://license.microservicetool.com/api/v1/license/validate",
+  "licenseServerUrl": "https://api.microservicetool.com//api/v1/license/validate",
   "fallbackUrls": [
     "https://microservicetool.xyz/api/v1/license/validate"
   ],
+  "frontendUrl":"https://microservicetool.com",
   "limits": {
     "trial": {
       "maxMachines": 1,
