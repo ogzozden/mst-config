@@ -1,5 +1,5 @@
 {
-  "version": "1.1",
+  "version": "1.0",
   "licenseServerUrl": "https://temp-backend-virid.vercel.app/api/v1/license/validate",
   "betaActivateUrl": "https://temp-backend-virid.vercel.app/api/v1/license/beta-activate",
   "fallbackUrls": [
