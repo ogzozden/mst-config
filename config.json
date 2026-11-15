@@ -1,10 +1,12 @@
 {
-  "version": "1.0",
-  "licenseServerUrl": "https://api.microservicetool.com/api/v1/license/validate",
+  "version": "1.1",
+  "licenseServerUrl": "https://temp-backend-virid.vercel.app/api/v1/license/validate",
+  "betaActivateUrl": "https://temp-backend-virid.vercel.app/api/v1/license/beta-activate",
   "fallbackUrls": [
+    "https://api.microservicetool.com/api/v1/license/validate",
     "https://microservicetool.xyz/api/v1/license/validate"
   ],
-  "frontendUrl":"https://microservicetool.com",
+  "frontendUrl": "https://microservicetool.com",
   "limits": {
     "trial": {
       "maxMachines": 1,
